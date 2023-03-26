@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://zeitneit.github.io/rsschool-cv/
